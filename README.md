@@ -2,7 +2,7 @@
 
 A comprehensive Flask-based web application that serves as both a Jellyfin media server client and a personal file management dashboard. This application allows you to browse your Jellyfin libraries and manage your own media files (music, videos, documents, images) in one unified interface.
 
-## Features
+## Current Features
 
 ### 🎬 Jellyfin Integration
 - **Library Browsing**: Browse all your Jellyfin media libraries
@@ -184,6 +184,57 @@ For issues and questions:
 - Create an issue on GitHub
 - Check the troubleshooting section
 - Review the user guide documentation
+
+---
+
+## 🚀 What's Next? (IT-Friendly Roadmap)
+
+### Phase 1: Quick IT Wins (Next 2-4 weeks)
+**Focus: Practical improvements for IT administrators and users**
+
+- **Batch File Operations**: Select multiple files for bulk delete/download
+- **File Rename**: Simple rename functionality for uploaded files  
+- **Storage Monitoring**: Display used/available disk space
+- **Better Error Messages**: User-friendly error notifications
+- **Connection Health**: Real-time Jellyfin server status monitoring
+
+### Phase 2: Enhanced Management (1-2 months)
+**Focus: Better file organization and system administration**
+
+- **Personal File Search**: Search within your uploaded files
+- **Basic Playlists**: Create simple music playlists
+- **Folder Organization**: Create custom folders within categories
+- **Performance Metrics**: Basic system health indicators
+- **Activity Logging**: Track file access and uploads
+
+### Phase 3: Advanced Features (3+ months)
+**Focus: Enterprise-ready capabilities**
+
+- **User Accounts**: Basic multi-user support
+- **Automated Backups**: Scheduled file backup system
+- **Security Enhancements**: Access control and audit trails
+- **Advanced Media**: Subtitle support, video thumbnails
+- **Integration Tools**: Cloud storage sync options
+
+### 🛠️ IT Administration Benefits
+
+**Easy to Implement:**
+- **Simple Configuration**: Basic setup with minimal technical knowledge
+- **Clear Monitoring**: Visual indicators for system health
+- **Straightforward Deployment**: Standard Flask application setup
+- **Low Maintenance**: Minimal ongoing administration required
+
+**Business Value:**
+- **Centralized Media**: Single interface for all content
+- **User-Friendly**: No advanced technical skills needed
+- **Scalable**: Grows with user requirements
+- **Secure**: Local storage with controlled access
+
+**Support-Friendly:**
+- **Clear Documentation**: Comprehensive user guides
+- **Troubleshooting**: Common issues and solutions documented
+- **Gradual Rollout**: Features can be implemented incrementally
+- **Backup Ready**: Simple file backup and recovery
 
 ---
 
